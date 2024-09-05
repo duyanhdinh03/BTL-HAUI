@@ -1,0 +1,1 @@
+﻿Ví dụ, ta mã hoá một bản tin hexa "0123456789ABCDEF" với chìa khoá là "5A5A5A5A5A5A5A5A" thì kết quả là "72AAE3B3D6916E92". Nếu kết quả này được giải mã với cùng chìa khoá "5A5A5A5A5A5A5A5A" thì ta sẽ thu lại được đúng bản tin "0123456789ABCDEF". 
