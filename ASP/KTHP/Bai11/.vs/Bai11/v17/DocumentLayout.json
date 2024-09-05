@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|k:\\uni\\asp\\kthp\\cuoi ky\\bai11\\bai11\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\nhanviens\\catalogrymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\nhanviens\\catalogrymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\bai11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B6E9302-97A8-41A6-92CF-3D8CBD892351}|Bai11\\Bai11.csproj|solutionrelative:bai11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:58:34.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:58:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hienthitheophong.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Hienthitheophong.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Hienthitheophong.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Hienthitheophong.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Hienthitheophong.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:09.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Login.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Login.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:58:55.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatalogryMenu.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\CatalogryMenu.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\CatalogryMenu.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\CatalogryMenu.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\CatalogryMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T05:57:08.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai11\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bai11\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-08-28T05:57:09.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "Bai11\\Controllers\\NhanViensController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\Cuoi ky\\Bai11\\Bai11\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "Bai11\\Controllers\\NhanViensController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:57:09.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

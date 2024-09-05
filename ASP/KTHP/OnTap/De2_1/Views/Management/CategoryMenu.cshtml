@@ -1,0 +1,7 @@
+﻿@model IEnumerable<De2_1.Models.Phong>
+
+@foreach (var item in Model)
+{
+    var url = "/Tentheophong/" + item.Maphong;
+    <a href="@url">@item.Tenphong</a>
+}

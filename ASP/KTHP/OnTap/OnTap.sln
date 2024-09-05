@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TH11_AJAX - ProOnTap", "TH11_AJAX - ProOnTap\TH11_AJAX - ProOnTap.csproj", "{534499CE-E19A-414B-B8C0-5E6532306FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De2_1", "De2_1\De2_1.csproj", "{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534499CE-E19A-414B-B8C0-5E6532306FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534499CE-E19A-414B-B8C0-5E6532306FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534499CE-E19A-414B-B8C0-5E6532306FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534499CE-E19A-414B-B8C0-5E6532306FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5228770-0FA4-48CD-87FC-9B971B1FA3AF}
+	EndGlobalSection
+EndGlobal

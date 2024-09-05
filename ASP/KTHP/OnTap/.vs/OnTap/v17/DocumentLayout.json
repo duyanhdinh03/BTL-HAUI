@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Uni\\ASP\\KTHP\\OnTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:2:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:1:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\controllers\\managementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\login\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\tentheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\tentheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\views\\management\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\views\\management\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|k:\\uni\\asp\\kthp\\ontap\\de2_1\\models\\modeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D93D0E-06CA-47B7-ACA1-EC0CB1BB3FD6}|De2_1\\De2_1.csproj|solutionrelative:de2_1\\models\\modeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\hienthitheophong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\views\\nhanviens\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\views\\nhanviens\\categorymenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|k:\\uni\\asp\\kthp\\ontap\\th11_ajax - proontap\\models\\modeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534499CE-E19A-414B-B8C0-5E6532306FDC}|TH11_AJAX - ProOnTap\\TH11_AJAX - ProOnTap.csproj|solutionrelative:th11_ajax - proontap\\models\\modeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagementController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Controllers\\ManagementController.cs",
+              "RelativeDocumentMoniker": "De2_1\\Controllers\\ManagementController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Controllers\\ManagementController.cs",
+              "RelativeToolTip": "De2_1\\Controllers\\ManagementController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:39:31.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:39:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryMenu.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\CategoryMenu.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\CategoryMenu.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\CategoryMenu.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\CategoryMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:03:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:39:38.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Login.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:29:14.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Login.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:45:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:37:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "De2_1\\Controllers\\LoginController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "De2_1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:22:46.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Edit.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Edit.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Edit.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:37:41.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Details.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Details.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Details.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:37:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Delete.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Login\\Delete.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Login\\Delete.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Login\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:37:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Details.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Details.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Details.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:26:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Index.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Index.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:26:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Delete.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Delete.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Delete.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:26:27.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Create.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Create.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Create.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:26:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tentheophong.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Tentheophong.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Tentheophong.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Tentheophong.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Tentheophong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:05:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Edit.cshtml",
+              "RelativeDocumentMoniker": "De2_1\\Views\\Management\\Edit.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Views\\Management\\Edit.cshtml",
+              "RelativeToolTip": "De2_1\\Views\\Management\\Edit.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwFAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:43:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "De2_1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "De2_1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:41:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "De2_1\\Models\\NhanVien.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Models\\NhanVien.cs",
+              "RelativeToolTip": "De2_1\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:45:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ModelDB.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Models\\ModelDB.cs",
+              "RelativeDocumentMoniker": "De2_1\\Models\\ModelDB.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\De2_1\\Models\\ModelDB.cs",
+              "RelativeToolTip": "De2_1\\Models\\ModelDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:37:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Controllers\\NhanViensController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Controllers\\NhanViensController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:43:20.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:13:22.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Edit.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Edit.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:13:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Details.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Details.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Details.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:13:09.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Delete.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Delete.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:13:08.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Login.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Login.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Login.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:50:43.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HienThiTheoPhong.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\HienThiTheoPhong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:26:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T10:43:58.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\App_Start\\RouteConfig.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:43:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Create.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Create.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\Create.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\Create.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwFgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:10:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryMenu.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Views\\NhanViens\\CategoryMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T11:26:49.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ModelDB.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Models\\ModelDB.cs",
+              "RelativeDocumentMoniker": "TH11_AJAX - ProOnTap\\Models\\ModelDB.cs",
+              "ToolTip": "K:\\Uni\\ASP\\KTHP\\OnTap\\TH11_AJAX - ProOnTap\\Models\\ModelDB.cs",
+              "RelativeToolTip": "TH11_AJAX - ProOnTap\\Models\\ModelDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:42:35.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

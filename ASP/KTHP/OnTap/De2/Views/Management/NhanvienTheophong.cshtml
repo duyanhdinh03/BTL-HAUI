@@ -1,0 +1,27 @@
+﻿@model IEnumerable<De2.Models.NhanVien>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Tenphong)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tenphong)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Maphong }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Maphong }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Maphong })
+        </td>
+    </tr>
+}
+
+</table>

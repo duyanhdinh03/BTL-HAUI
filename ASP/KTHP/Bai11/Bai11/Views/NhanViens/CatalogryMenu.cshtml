@@ -1,0 +1,5 @@
+﻿@foreach (var item in Model)
+{
+    var url = "/NhanVienTheoPhong/" + item.Maphong;
+    <a href="@url">@item.Tenphong</a> <span> | </span>
+}
