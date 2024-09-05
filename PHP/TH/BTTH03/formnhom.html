@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhập thông tin nhóm hàng</title>
+</head>
+<body>
+    <form action="nhapnhom.php" method="POST">
+        <p>
+            <label>Mã nhóm</label>
+            <input type="text" id="code" name="code"/>
+        </p>
+        <p>
+            <label>Tên nhóm</label>
+            <input type="text" id="name" name="name"/>
+        </p>
+            <label>Mô tả</label>
+            <textarea  rows="5" cols="20" type="text" id="desc" name="desc"></textarea>
+        </p>
+        <p>
+            <button type="submit">Nhập</button>
+            <button type="reset">Cancel</button>
+        </p>
+    </form>
+</body>
+</html>

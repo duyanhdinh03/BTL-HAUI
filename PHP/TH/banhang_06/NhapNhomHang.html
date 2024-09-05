@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            font-size:30px;
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+        table{
+            width: 50%;
+            margin:auto;
+        }
+        input[type="text"], textarea{
+            width:100%;
+            border:none;
+            height:50px;
+        }
+        .button, button {
+            width : 30%;
+            height:50px;
+        }
+    </style>
+</head>
+<body>
+    <form action="./NhapNhomHang.php" method="post">
+        <table border=1>
+            <tr>
+                <td colspan = "2" style="text-align:center"><h1>NHẬP NHÓM MẶT HÀNG</h1></td>
+            </tr>
+            <tr>
+                <td><label for="name">Tên nhóm</label></td>
+                <td><input type="text" name="name" id="name"></td>
+            </tr>
+            <tr>
+                <td><label for="desc">Mô tả</label></td>
+                <td><textarea name="desc" id="desc" cols="30" rows="10"></textarea></td>
+            </tr>
+            <tr>
+                <td style = "text-align:center" colspan="2">
+                    <input type="submit" value="Nhập" class="button">
+                    <input type="reset" value="Reset" class="button">
+                    <a href="./NhapHang.php"><button type="button">Nhập hàng</button></a>
+                 </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhập thông tin</title>
+    <style>
+        form{
+            width: 1000px;
+            margin: auto;
+        }
+        table{
+            font-size: 20px;
+            height: 300px;
+        }
+        button{
+            
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <form action="xuly.php" method="POST">
+        <h1>Nhập thông tin hộ gia đình</h1>
+        <table>
+            <tr>
+                <td><label for="name">Họ và tên</label></td>
+                <td><input type="text" id="name" name="name"/></td>
+            </tr>
+            
+            <tr>
+                <td><label for="month">Tháng</label></td>
+                <td><input type="text" id="month" name="month"/></td>
+            </tr>
+            <tr>
+                <td><label for="year">Năm</label></td>
+                <td><input type="text" id="year" name="year"/></td>
+            </tr>
+            <tr>
+                <td><label for="old">Chỉ số đầu tháng</label></td>
+                <td><input type="text" id="old" name="old"/></td>
+            </tr>
+            <tr>
+                <td><label for="new">Chỉ số cuối tháng</label></td>
+                <td><input type="text" id="new" name="new"/></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button type="submit" name="btnLuu">Lưu</button>
+                    <button type="reset" name="btnHuy">Hủy</button>
+                </td>
+            </tr>
+        </table>
+        
+    </form>
+</body>
+</html>

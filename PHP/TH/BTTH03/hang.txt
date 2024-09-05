@@ -1,0 +1,3 @@
+001	Banh Hura	n1	10	62000	images/thumb-4.jpg	
+002	kẹo	n2	10	23000	images/product-details-5.jpg
+003	Banh gạo OneOne	005	15	20000	images/thumb-1.jpg
