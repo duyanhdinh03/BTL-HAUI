@@ -1,0 +1,24 @@
+double process(int n, double x[], double y[], double X){
+    double f[n+1][n+1];
+    for(int i = 0;i<n;i++){
+        f[i][0] = y[i];
+    }
+    for(int j = 1;j<n;j++){
+        for(int i = 0;i<n-j;i++){
+            f[i][j] = f[i+1][j-1] - f[i][j-1];
+        }
+    }
+    double h = (x[1] - x[0]);
+    double q = (X - x[0]) / h;
+    double sum = f[0][0];
+    double mul = 1.0;
+    for(int i = 1;i<n;i++){
+        mul *= (double)(i);
+        double tmp = (f[0][i] / mul);
+        for(int j = 0;j<i;j++){
+            tmp *= (q - j * 1.0);
+        }
+        sum += tmp;
+    }
+    return sum;
+}
